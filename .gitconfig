@@ -1,0 +1,7 @@
+[user]
+    name=blog
+    email= beburbano23@gmail.com
+[init]
+    defaulBranch = main
+[core]
+    editor= code --wait
